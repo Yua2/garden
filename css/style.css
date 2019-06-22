@@ -439,4 +439,6 @@ hr {
  object-fit: cover;
 }
 
-
+#f .addition p {
+  color: red;
+}
